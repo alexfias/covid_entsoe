@@ -1,0 +1,18 @@
+#co2 emissions for different carrier types in kg/MWh
+Solar: 0.
+Geothermal: 0.
+Wind Onshore: 0.
+Wind Offshore: 0.
+Nuclear: 0.
+Hydro Pumped Storage: 0.
+Hydro Run-of-river and poundage: 0
+Hydro Water Reservoir: 0
+Biomass: 1003.
+Fossil Gas: 635.
+Fossil Oil: 1000.
+Fossil Brown coal/Lignite: 950.
+Fossil Hard coal: 880.
+Waste: 0.
+Other renewable: 0.
+Other: 0.
+
